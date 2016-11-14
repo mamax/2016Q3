@@ -1,0 +1,4 @@
+database Qtest
+
+username - Qtaskadmin
+password - Qtaskpassword
