@@ -13,4 +13,6 @@ Than I set identity_insert [QtaskDB].[dbo].[Shipment] OFF.
 And inserted 1000 values into RouteId and TruckId in accordance.
 3. I  created 'Customer' table and added data from Excel file, then added coloumn 'CustomerId' to 'Cargo' table with random values from Customer table.
 
-
+Task 3
+1. Added necessary tables to view and checked necessary fields.
+Than I refactored Query according to the task and calculated 'FuelSpend' for every journey.
